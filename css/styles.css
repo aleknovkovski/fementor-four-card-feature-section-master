@@ -1,0 +1,75 @@
+body {
+    font-family: Poppins;
+    font-size: 15px;
+    text-align: center;
+}
+
+.branding {
+    width: 35%;
+    display: block;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+.branding h2 {
+    line-height: 1px;
+    font-weight: 200;
+    font-size: 1.8rem;
+}
+
+.branding p {
+    color: hsl(229, 6%, 66%)
+}
+
+#cards {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.card {
+    box-shadow: hsl(0, 0%, 98%) 5px 5px 25px;
+    width: 300px;
+    padding: 30px;
+    margin: 15px;
+    border-radius: 5px;
+    text-align: left;
+    display: inline-block;
+    position: relative;
+}
+
+.card:hover {
+
+    box-shadow: hsl(0, 0%, 88%) 5px 5px 25px;
+    /*border-right: 1px hsl(0, 0%, 98%) solid;*/
+    /*border-left: 1px hsl(0, 0%, 98%) solid;*/
+    /*border-bottom: 1px hsl(0, 0%, 78%) solid;*/
+}
+.card img {
+    float:right
+}
+
+.card h1 {
+    font-size: 1.3rem;
+}
+/*this positions the side cards*/
+
+.side {
+    top: 150px;
+}
+
+/*this determines the colors of each card*/
+.left {
+    border-top: 4px hsl(180, 62%, 55%) solid;
+}
+
+.top {
+    border-top: 4px hsl(0, 78%, 62%) solid;
+}
+
+.right {
+    border-top: 4px hsl(212, 86%, 64%) solid;
+}
+
+.bottom {
+    border-top: 4px hsl(34, 97%, 64%) solid;
+}
