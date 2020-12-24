@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5bcaeef4-5dfc-47a8-af32-3fc8f65ed5b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <updated>1608764550236</updated>
       <workItem from="1608764552258" duration="4234000" />
       <workItem from="1608806018732" duration="28000" />
-      <workItem from="1608816429463" duration="67000" />
+      <workItem from="1608816429463" duration="1234000" />
     </task>
     <task id="LOCAL-00001" summary="finalized">
       <created>1608768718876</created>
@@ -70,14 +70,33 @@
       <option name="project" value="LOCAL" />
       <updated>1608768811438</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added css transition">
+      <created>1608816530479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608816530479</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finalized" />
-    <option name="LAST_COMMIT_MESSAGE" value="finalized" />
+    <MESSAGE value="added css transition" />
+    <option name="LAST_COMMIT_MESSAGE" value="added css transition" />
   </component>
 </project>
